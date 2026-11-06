@@ -1,6 +1,8 @@
 # Unity Package CI/CD System Template 
 A lightweight, crop-in save system for Unity that gives a single persistent singleton with everything already set up. No need to rebuild the same save system every new project, you just need to alter a single JSON with what you want and a class to go along with it. 
 
+Although their purposes essentially differ from each other, this could be considered a better version of my much older [UnityJSONSerializerPlugin](https://github.com/Persomatey/UnityJSONSerializerPlugin). 
+
 Check out [Releases](https://github.com/Persomatey/unity-centralized-json-save-system/releases) tab to see a history of all versions of this package. 
 
 ## Installation 
