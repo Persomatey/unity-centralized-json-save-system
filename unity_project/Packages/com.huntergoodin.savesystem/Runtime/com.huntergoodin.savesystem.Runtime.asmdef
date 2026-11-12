@@ -1,12 +1,10 @@
 {
-	"name": "com.yourcompany.packagename.Editor",
-	"rootNamespace": "YourCompany.PackageName",
+	"name": "com.huntergoodin.savesystem.Runtime",
+	"rootNamespace": "HunterGoodin.SaveSystem",
 	"references": [
-		"com.yourcompany.packagename.Runtime"
+	 	"Unity.TextMeshPro"
 	],
-	"includePlatforms": [
-		"Editor"
-	],
+	"includePlatforms": [],
 	"excludePlatforms": [],
 	"allowUnsafeCode": false,
 	"overrideReferences": false,
