@@ -1,0 +1,11 @@
+{
+    "user": {
+        "nestedString": "",
+        "nestedBool": false
+    },
+    "myBool": false,
+    "myString": "",
+    "myFloat": 0.0,
+    "myInt": 0,
+    "myIntArr": []
+}
